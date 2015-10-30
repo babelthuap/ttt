@@ -1,0 +1,9 @@
+.box {
+  border: 1px solid #666;
+  display: inline-block;
+  border-collapse: collapse;
+  width: 26vw;
+  height: 26vw;
+  font-size: 26vw;
+  text-align: center;
+}
