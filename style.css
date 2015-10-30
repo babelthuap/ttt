@@ -8,3 +8,7 @@
   text-align: center;
   cursor: pointer;
 }
+
+#winner {
+  color: red;
+}
